@@ -6,6 +6,7 @@
 
 ### 🛠 Skills
 - Programming: Java, JavaScript
+- DSA: Arrays, Strings, Basic Problem Solving
 - Database: MySQL
 - Web Technologies: HTML, CSS
 - Tools: Git, GitHub
