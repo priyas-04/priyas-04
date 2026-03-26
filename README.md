@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Priya
 
-🎓 Final Year B.Tech IT Student  
 💻 Aspiring Software Developer  
 🚀 Passionate about Java, DSA, and building real-world projects
 
