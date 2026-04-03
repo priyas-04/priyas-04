@@ -1,29 +1,65 @@
-## Priya S — Full Stack Developer
-Java · Spring Boot · React.js · MySQL · REST APIs
+# Priya S - Full Stack Developer
 
-I build backend systems and full stack web apps using Java and Spring Boot on the server, React.js on the client, and MySQL underneath.
+**Java · Spring Boot · React.js · MySQL · REST APIs**
+**Patent holder · Published researcher · Available August 2026**
 
-My projects are production-oriented — I write REST APIs that handle real load, tune queries for performance, and ship features end to end without handholding.
+---
 
-Currently finishing B.Tech in IT (2026) and looking for SDE / Full Stack roles.
+I build backend systems and full stack web apps - Java and Spring Boot on the server, React.js on the client, MySQL underneath.
 
-### What I've built
+I've cut API query time by 40%, hit 87%+ ML classification accuracy, and processed 200+ requests/min in load tests. Numbers I can walk through in any interview.
 
-**[ResolveAI – Smart Grievance System](link)**
-Python · FastAPI · NLP · scikit-learn · MySQL
-Auto-classifies complaints using TF-IDF + Naive Bayes (87%+ accuracy). Handles 200+ requests/min. Cut manual triage for the top 5 complaint categories entirely.
+B.Tech Information Technology, graduating July 2026.
+Available for SDE and Full Stack roles from August 2026.
 
-**[Drug Inventory & Supply Chain System](link)**
-Java · Spring Boot · Hibernate · MySQL · REST APIs
-Multi-module API across 5+ inventory entities. Cut query response time by 40%. Schema peer-reviewed and published in an international engineering journal. Patent No. 140120.
+---
 
-### Tech
-**Backend:** Java 17, Spring Boot 3, Spring Security JWT, Hibernate, REST APIs, FastAPI  
-**Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, Docker, Maven, Postman, IntelliJ IDEA  
-**Concepts:** OOP, MVC, DSA, JUnit 5, Mockito
+## What I've built
 
-- Published research author (IRJMETS, 2024)
-- Patent holder — Drug Inventory & Supply Chain System (No. 140120)
-- Internship: delivered 3 backend modules independently at Rinex Technologies
+### ResolveAI — Smart Grievance Assist System
+`Python` `FastAPI` `scikit-learn` `NLP` `MySQL` `REST APIs` · *Mar 2026*
+
+- NLP classification pipeline (TF-IDF + Naive Bayes) auto-categorises complaints with **87%+ accuracy**
+- Eliminated manual triage across the 5 highest-volume complaint categories
+- FastAPI endpoint handles **200+ requests/min** with async DB writes to prevent I/O bottlenecks under burst traffic
+- Reduced simulated complaint resolution time by **60%** against a manual baseline
+
+---
+
+### Drug Inventory & Supply Chain Management System
+`Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs` · *Nov 2024*
+
+- Multi-module REST API serving 5+ inventory entities - query response time reduced by **40%** through composite indexing and fetch tuning
+- End-to-end exception handling cut invalid API requests to zero in testing
+- Supply chain tracking across 3 warehouse tiers
+
+> **Patent No. 140120 (Nov 2024)**
+> Schema peer-reviewed and published - *International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), 2024*
+
+---
+
+## Tech stack
+
+| Layer | Tools |
+|---|---|
+| Backend | Java 17, Spring Boot 3, Spring Security JWT, Hibernate, REST APIs, FastAPI |
+| Frontend | React.js, HTML5, CSS3, JavaScript ES6+ |
+| Databases | MySQL, PostgreSQL |
+| Dev tools | Git, Docker, Maven, Postman, IntelliJ IDEA |
+| Concepts | OOP, MVC, DSA, JUnit 5, Mockito, CI/CD basics |
+
+---
+
+## What makes this profile different
+
+- **Patent holder** - Drug Inventory & Supply Chain Management System (No. 140120, Nov 2024)
+- **Published in IRJMETS (2024)** - peer-reviewed international engineering journal
+- **Internship at Rinex Technologies** (Jul–Sep 2024) - 3 backend feature modules shipped independently
+
+---
+
+## Connect
+
+- Email: priyasss311@gmail.com
+- LinkedIn: https://www.linkedin.com/in/priya-s-65a58b276/
+- GitHub: https://github.com/priyas-04
