@@ -44,12 +44,6 @@ Available for SDE and Full Stack roles from August 2026.
 | Concepts | OOP, MVC, DSA, JUnit 5, Mockito, CI/CD basics |
 
 
-## What makes this profile different
-
-- **Patent holder** - Drug Inventory & Supply Chain Management System (No. 140120, Nov 2024)
-- **Published in IRJMETS (2024)** - peer-reviewed international engineering journal
-- **Internship at Rinex Technologies** (Jul–Sep 2024) - 3 backend feature modules shipped independently
-
 ## Connect
 
 - Email: priyasss311@gmail.com
