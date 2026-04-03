@@ -1,9 +1,7 @@
 # Priya S - Full Stack Developer
 
 **Java · Spring Boot · React.js · MySQL · REST APIs**
-**Patent holder · Published researcher · Available August 2026**
 
----
 
 I build backend systems and full stack web apps - Java and Spring Boot on the server, React.js on the client, MySQL underneath.
 
@@ -12,7 +10,6 @@ I've cut API query time by 40%, hit 87%+ ML classification accuracy, and process
 B.Tech Information Technology, graduating July 2026.
 Available for SDE and Full Stack roles from August 2026.
 
----
 
 ## What I've built
 
@@ -24,7 +21,6 @@ Available for SDE and Full Stack roles from August 2026.
 - FastAPI endpoint handles **200+ requests/min** with async DB writes to prevent I/O bottlenecks under burst traffic
 - Reduced simulated complaint resolution time by **60%** against a manual baseline
 
----
 
 ### Drug Inventory & Supply Chain Management System
 `Java` `Spring Boot` `Hibernate` `MySQL` `REST APIs` · *Nov 2024*
@@ -36,7 +32,6 @@ Available for SDE and Full Stack roles from August 2026.
 > **Patent No. 140120 (Nov 2024)**
 > Schema peer-reviewed and published - *International Research Journal of Modernization in Engineering Technology and Science (IRJMETS), 2024*
 
----
 
 ## Tech stack
 
@@ -48,15 +43,12 @@ Available for SDE and Full Stack roles from August 2026.
 | Dev tools | Git, Docker, Maven, Postman, IntelliJ IDEA |
 | Concepts | OOP, MVC, DSA, JUnit 5, Mockito, CI/CD basics |
 
----
 
 ## What makes this profile different
 
 - **Patent holder** - Drug Inventory & Supply Chain Management System (No. 140120, Nov 2024)
 - **Published in IRJMETS (2024)** - peer-reviewed international engineering journal
 - **Internship at Rinex Technologies** (Jul–Sep 2024) - 3 backend feature modules shipped independently
-
----
 
 ## Connect
 
