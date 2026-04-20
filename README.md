@@ -7,8 +7,8 @@ I build backend systems and full stack web apps - Java and Spring Boot on the se
 
 I've cut API query time by 40%, hit 87%+ ML classification accuracy, and processed 200+ requests/min in load tests. Numbers I can walk through in any interview.
 
-B.Tech Information Technology, graduating July 2026.
-Available for SDE and Full Stack roles from August 2026.
+B.Tech Information Technology, graduating May 2026.
+Available for SDE and Full Stack roles immediately.
 
 
 ## What I've built
