@@ -8,52 +8,37 @@ I enjoy building practical software solutions, intelligent applications, and ful
 
 ## 🛠️ Technical Skills
 
-**Languages:**
-`Python` `Java` `JavaScript` `SQL`
+| Category           | Technologies                                                           |
+| ------------------ | ---------------------------------------------------------------------- |
+| **Languages**      | Python, Java, JavaScript, SQL                                          |
+| **AI / ML**        | Machine Learning, scikit-learn, NLP, Generative AI, Prompt Engineering |
+| **Backend**        | FastAPI, Spring Boot, Spring Security, Hibernate/JPA, REST APIs        |
+| **Frontend**       | React.js, HTML5, CSS3                                                  |
+| **Databases**      | MySQL, PostgreSQL                                                      |
+| **DevOps & Tools** | Git, GitHub, Docker, CI/CD, Maven, Postman                             |
 
-**AI / ML:**
-`Machine Learning` `scikit-learn` `NLP` `Generative AI` `Prompt Engineering`
-
-**Backend:**
-`FastAPI` `Spring Boot` `Spring Security` `Hibernate/JPA` `REST APIs`
-
-**Frontend:**
-`React.js` `HTML5` `CSS3`
-
-**Databases:**
-`MySQL` `PostgreSQL`
-
-**DevOps & Tools:**
-`Git` `GitHub` `Docker` `CI/CD` `Maven` `Postman`
-
-## 🚀 Featured Projects
+## 🚀 What I've built
 
 ### ResolveAI – Smart Grievance Assist System
 
-AI-powered grievance management system using NLP and machine learning.
+**Tech:** Python, FastAPI, scikit-learn, NLP, MySQL, REST APIs
 
 * Built an NLP classification pipeline using TF-IDF and Naive Bayes
 * Categorizes grievances across multiple categories
 
-**Tech:** `Python` `FastAPI` `scikit-learn` `NLP` `MySQL` `REST APIs`
-
 ### Autonomous Enterprise Evolution Engine
 
-AI-powered platform designed to analyze business information and generate strategic insights.
+**Tech:** Python, FastAPI, React, LLM, RAG, GenAI, PostgreSQL, scikit-learn
 
 * Uses LLMs, RAG, embeddings, and AI agents
 * Analyzes business, customer, market, and competitor data
 
-**Tech:** `Python` `FastAPI` `React` `LLM` `RAG` `GenAI` `PostgreSQL` `scikit-learn`
-
 ### Drug Inventory & Supply Chain Management System
 
-Full-stack application for managing pharmaceutical inventory and supply-chain operations.
+**Tech:** Java, Spring Boot, React, MySQL, Hibernate, REST APIs
 
 * Built a multi-module REST API
 * Implemented inventory management and validation
-
-**Tech:** `Java` `Spring Boot` `React` `MySQL` `Hibernate` `REST APIs`
 
 ## 🤝 Connect With Me
 
