@@ -43,7 +43,7 @@ I enjoy building practical software solutions, intelligent applications, and ful
 ## 🤝 Connect With Me
 
 * **Portfolio:** https://priyas-dev-portfolio.vercel.app/
-* * **GitHub:** https://github.com/priyas-04
+* **GitHub:** https://github.com/priyas-04
 * **LinkedIn:** https://www.linkedin.com/in/priya-s-65a58b276/
 * **Email:** [priyass311@gmail.com](mailto:priyass311@gmail.com)
 
