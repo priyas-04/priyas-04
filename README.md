@@ -35,7 +35,7 @@ I enjoy building practical software solutions, intelligent applications, and ful
 
 ### Drug Inventory & Supply Chain Management System
 
-**Tech:** Java, Spring Boot, React, MySQL, Hibernate, REST APIs
+Java Spring Boot React MySQL Hibernate REST APIs
 
 * Built a multi-module REST API
 * Implemented inventory management and validation
