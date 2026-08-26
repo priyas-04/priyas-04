@@ -21,21 +21,21 @@ I enjoy building practical software solutions, intelligent applications, and ful
 
 ### ResolveAI – Smart Grievance Assist System
 
-**Tech:** Python, FastAPI, scikit-learn, NLP, MySQL, REST APIs
+`Python` `FastAPI` `scikit-learn` `NLP` `MySQL` `REST APIs`
 
 * Built an NLP classification pipeline using TF-IDF and Naive Bayes
 * Categorizes grievances across multiple categories
 
 ### Autonomous Enterprise Evolution Engine
 
-**Tech:** Python, FastAPI, React, LLM, RAG, GenAI, PostgreSQL, scikit-learn
+`Python` `FastAPI` `React` `LLM` `RAG` `GenAI` `PostgreSQL` `scikit-learn`
 
 * Uses LLMs, RAG, embeddings, and AI agents
 * Analyzes business, customer, market, and competitor data
 
 ### Drug Inventory & Supply Chain Management System
 
-Java Spring Boot React MySQL Hibernate REST APIs
+`Java` `Spring Boot` `React` `MySQL` `Hibernate` `REST APIs`
 
 * Built a multi-module REST API
 * Implemented inventory management and validation
