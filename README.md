@@ -1,4 +1,4 @@
-# Hi, I'm Priya S 👋
+# Hi, I'm Priya 👋
 
 ### Software Developer | Python & Java | Backend & AI/ML
 
