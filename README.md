@@ -36,8 +36,6 @@ AI-powered grievance management system using NLP and machine learning.
 
 * Built an NLP classification pipeline using TF-IDF and Naive Bayes
 * Categorizes grievances across multiple categories
-* Implemented FastAPI backend with database integration
-* Added priority scoring and grievance processing
 
 **Tech:** Python, FastAPI, scikit-learn, NLP, MySQL, REST APIs
 
@@ -48,8 +46,6 @@ AI-powered platform designed to analyze business information and generate strate
 
 * Uses LLMs, RAG, embeddings, and AI agents
 * Analyzes business, customer, market, and competitor data
-* Generates evidence-based strategic insights
-* Supports predictive analytics and automated action planning
 
 **Tech:** Python, FastAPI, React, LLM, RAG, GenAI, PostgreSQL, scikit-learn
 
@@ -60,49 +56,8 @@ Full-stack application for managing pharmaceutical inventory and supply-chain op
 
 * Built a multi-module REST API
 * Implemented inventory management and validation
-* Added exception handling and structured data management
-* Designed a three-tier warehouse model
 
 **Tech:** Java, Spring Boot, React, MySQL, Hibernate, REST APIs
-
-
-## 💼 Experience
-
-### Java Full Stack Development Intern
-
-**Rinex Technologies Pvt. Ltd.**
-
-Completed a 3-month virtual Java Full Stack Development internship.
-
-* Developed and enhanced responsive application modules
-* Worked with Java, HTML, CSS, JavaScript, and databases
-* Gained practical experience in frontend and backend development
-* Worked on application assignments and problem-solving tasks
-
-
-## 🎓 Education
-
-**B.Tech – Information Technology**
-Sri Shakthi Institute of Engineering and Technology
-2022 – 2026
-
-
-## 📜 Certifications
-
-* Python Programming — Udemy
-* Machine Learning & Artificial Intelligence — Udemy
-* Prompt Engineering for AI — Udemy
-* Java Programming — Udemy
-
-
-## 🎯 Currently Learning
-
-* Advanced Python
-* AI / Machine Learning
-* Generative AI
-* Backend Development
-* Data Structures & Algorithms
-* Cloud & DevOps
 
 
 ## 🤝 Connect With Me
